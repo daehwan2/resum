@@ -9,7 +9,7 @@ function Profile() {
           <strong className="text-[black]">김대환</strong>
         </strong>
 
-        <div className="flex flex-col md:flex-row md:items-center">
+        <div className="flex flex-col items-center md:flex-row md:items-center">
           <img
             className="object-contain w-[300px] h-[300px] rounded-[50%] mb-[20px] md:mb-0 md:mr-[10px]"
             src="assets/images/avatar.jpg"
@@ -27,8 +27,10 @@ function Profile() {
                 것을 좋아합니다.
               </li>
               <li>
-                반복적인 업무를 <span className="text-orange-600">자동화</span>
-                하는 것을 좋아합니다.
+                <span className="text-orange-600">
+                  영상처리, 윈도우 프로그래밍
+                </span>
+                을 공부했습니다.
               </li>
             </ul>
 
