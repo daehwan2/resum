@@ -1,7 +1,6 @@
 import Education from "./components/Education";
 import Introduce from "./components/Introduce";
 import Profile from "./components/Profile";
-import Skill from "./components/Skill";
 
 function App() {
   return (
@@ -9,7 +8,7 @@ function App() {
       <Profile />
       <hr className="my-[10px]" />
       <Introduce />
-      <Skill />
+      <hr className="my-[10px]" />
       <Education />
     </div>
   );
