@@ -2,6 +2,7 @@ import Education from "./components/Education";
 import Introduce from "./components/Introduce";
 import Profile from "./components/Profile";
 import Projects from "./components/Projects";
+import Skill from "./components/Skill";
 
 function App() {
   return (
@@ -11,6 +12,8 @@ function App() {
       <Introduce />
       <hr className="my-[10px]" />
       <Education />
+      <hr className="my-[10px]" />
+      <Skill />
       <hr className="my-[10px]" />
       <Projects />
     </div>
