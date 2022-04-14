@@ -27,6 +27,23 @@ function Projects() {
            팀원중 실무자가 있었기에 실무와 가깝게 프로젝트를 구상하고 개발을 진행중에 있다고 생각하고 있습니다. github를 협업에 사용해본 첫프로젝트였습니다.
            프로젝트의 프론트부분을 작업하였고 slider UI, 월드컵 등록페이지 및 GNB를 맡아서 개발하였습니다. 백엔드와의 협업을 어떤식으로 하는지를 느껴본 프로젝트입니다."
         />
+        <Project
+          url="https://github.com/daehwan2/tomorrow-house"
+          title="내일의 집(오늘의 집 클론코딩)"
+          date="2021.09.20 ~"
+          imgurl="https://user-images.githubusercontent.com/53414542/163409428-f0a90c9a-1fa9-4d6d-a286-2baa213d033d.png"
+          content="실무와 비슷한 경험을 해준다는 말에 결제한 유료강의를 보며 따라한 프로젝트입니다. 
+          이 프로젝트를 통해 scss의 사용법, html의 보다 semantic한 markup을 배울 수 있었습니다.
+           또 figma로 작성된 디자인 파일을 보고 시안대로 코딩하는법을 알게되었습니다."
+        />
+        <Project
+          url="https://github.com/daehwan2/react-for-beginners"
+          title="영화 리스트 사이트"
+          date="2021.12.29 ~ 2022.01.17"
+          imgurl="https://github.com/daehwan2/react-for-beginners/raw/master/images/screenshot1.png"
+          content="무료강의를 보고 따라하면서 리액트의 함수형 컴포넌트를 익힐 수 있는 프로젝트였습니다. 
+          또 openAPI를 처음으로 사용해보며 어떤식으로 데이터를 받아오는지를 알게 되었습니다. 강의 이후에 추가한 기능은 스타일링과 sort기능을 넣었습니다."
+        />
       </ol>
       <hr className="mb-[15px] md:mb-[30px]" />
       <h1>other</h1>
